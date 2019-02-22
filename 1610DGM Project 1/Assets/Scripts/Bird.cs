@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Fish : Animal
-{
-    public Color FinColor;
+public class Bird : Animal {
 
-	// Use this for initialization
-	void Start ()
-    {
-        print("Hello World!");
+    public Color BeakColor;
+
+    // Use this for initialization
+    void Start () {
+		
 	}
 	
 	// Update is called once per frame
