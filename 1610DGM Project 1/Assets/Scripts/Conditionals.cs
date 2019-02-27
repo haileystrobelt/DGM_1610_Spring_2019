@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Conditionals : MonoBehaviour
 {
+    public bool CanWalk;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +15,9 @@ public class Conditionals : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (CanWalk)
+        {
+            print("True");
+        }
     }
 }
