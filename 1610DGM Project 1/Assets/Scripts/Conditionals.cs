@@ -5,6 +5,8 @@ using UnityEngine;
 public class Conditionals : MonoBehaviour
 {
     public bool CanWalk;
+    public int Number = 11;
+    public string Password;
 
     // Start is called before the first frame update
     void Start()
@@ -18,6 +20,27 @@ public class Conditionals : MonoBehaviour
         if (CanWalk)
         {
             print("True");
+        }
+        else
+        {
+            print(false);
+        }
+        if (Number >= 10)
+        {
+            print("Greater");
+        }
+        else
+        {
+            print("Lesser");
+        }
+
+        if (Password == "OU812")
+        {
+            print("The password is correct");
+        }
+        else
+        {
+            print("The password is incorrect");
         }
     }
 }
