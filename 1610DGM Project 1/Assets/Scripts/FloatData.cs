@@ -10,6 +10,6 @@ public class FloatData : ScriptableObject
     public float Value
     {
         get { return value; }
-        set {value}
+        set {this.value -= value}
     }
 }
