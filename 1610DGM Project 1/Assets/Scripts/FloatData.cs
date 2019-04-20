@@ -7,9 +7,9 @@ public class FloatData : ScriptableObject
 {
     [SerializeField] private float value;
 
-    public float Value
+    public float Value;
     {
-        get { return value; }
-        set {this.value -= value}
+        get { return value;}
+        set { this.value -= value; }
     }
 }

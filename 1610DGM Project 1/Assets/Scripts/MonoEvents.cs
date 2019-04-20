@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class MonoEvents : MonoBehaviour
 {
-    public UnityEvent StartEvent, EnableEvent, MouseDownEvent, UpdateEvent, TriggerEnterEvent;
+    public UnityEvent StartEvent, EnableEvent, UpdateEvent, TriggerEnterEvent;
 
 	private void Start ()
     {
