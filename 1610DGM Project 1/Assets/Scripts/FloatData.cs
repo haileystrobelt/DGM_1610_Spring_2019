@@ -9,7 +9,20 @@ public class FloatData : ScriptableObject
 
     public float Value;
     {
-        get { return value;}
+public float Value1
+    {
+        get
+        {
+            return value;
+        }
+
+        set
+        {
+            this.value = value;
+        }
+    }
+
+    get { return value;}
         set { this.value -= value; }
     }
 }
