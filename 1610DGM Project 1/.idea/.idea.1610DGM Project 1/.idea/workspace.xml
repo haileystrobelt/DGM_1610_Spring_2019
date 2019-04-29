@@ -30,12 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="150">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
-                <marker date="1556429308095" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556429308095" expanded="true" signature="139:287" ph="{...}" />
-                <marker date="1556429308095" expanded="true" signature="207:285" ph="{...}" />
+                <marker date="1556561102510" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556561102510" expanded="true" signature="139:288" ph="{...}" />
+                <marker date="1556561102510" expanded="true" signature="207:286" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,6 +44,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -57,9 +58,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="255" />
-    <option name="y" value="-17" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="202" />
+    <option name="y" value="86" />
     <option name="width" value="815" />
     <option name="height" value="546" />
   </component>
@@ -122,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555971030711</updated>
-      <workItem from="1555971047686" duration="5827000" />
+      <workItem from="1555971047686" duration="11681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5827000" />
+    <option name="totallyTimeSpent" value="11681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,7 +140,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="637" y="152" width="815" height="546" extended-state="0" />
+    <frame x="202" y="86" width="815" height="546" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -205,12 +206,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
-            <marker date="1556429308095" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556429308095" expanded="true" signature="139:287" ph="{...}" />
-            <marker date="1556429308095" expanded="true" signature="207:285" ph="{...}" />
+            <marker date="1556561102510" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556561102510" expanded="true" signature="139:288" ph="{...}" />
+            <marker date="1556561102510" expanded="true" signature="207:286" ph="{...}" />
           </folding>
         </state>
       </provider>
