@@ -23,6 +23,7 @@
           <e p="RocketEvent.cs" t="Include" />
           <e p="RocketEvent2.cs" t="Include" />
           <e p="Snake.cs" t="Include" />
+          <e p="UpdateBar.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
